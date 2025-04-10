@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.trios2025rm.androidassignment1"
-        minSdk = 20
+        minSdk = 21
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"

@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom colors for our app -->
+    <color name="positive_color">#FF4CAF50</color>  <!-- Green for positive counts -->
+    <color name="negative_color">#FFF44336</color>  <!-- Red for negative counts -->
+    <color name="neutral_color">#FF9E9E9E</color>   <!-- Blue for zero -->
+    <color name="milestone_color">#FFFFEB3B</color> <!-- Orange for milestones -->
+
+    <!-- Start screen colors -->
+    <color name="start_screen_background">#FF1A237E</color>
+    <color name="button_color">#FF2196F3</color>
+    <color name="button_pressed">#FF1976D2</color>
+    <color name="button_stroke">#FF1565C0</color>
 </resources>

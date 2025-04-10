@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">AndroidAssignment1</string>
+    <string name="app_name">TapMania</string>
+    <string name="app_title">TapMania</string>
+    <string name="button_increase">Increment</string>
+    <string name="button_decrease">Decrement</string>
+    <string name="button_reset">Reset</string>
+    <string name="milestone_reached">Milestone Reached!</string>
+    <string name="count_positive">Positive Territory!</string>
+    <string name="count_negative">Negative Territory!</string>
+    <string name="count_zero">Back to Zero!</string>
+    <string name="button_start_timer">Start 30s Challenge</string>
+    <string name="timer_result">Final Score: %1$d taps in 30 seconds!</string>
+    <string name="timer_countdown">Time Left: %1$d seconds</string>
+    
+    <!-- Start screen strings -->
+    <string name="start_game">Start Game</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+    <string name="back_to_menu">Back to Menu</string>
+
+    <!-- Options screen strings -->
+    <string name="vibration_enabled">Vibration</string>
+    <string name="sound_enabled">Sound Effects</string>
+    <string name="timer_duration">Timer Duration</string>
+    <string name="timer_duration_value">%1$d seconds</string>
 </resources>
